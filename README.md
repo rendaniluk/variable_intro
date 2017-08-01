@@ -5,7 +5,7 @@ JavaScript-variables
 Difference ways to declare variables
 *var-it's content and type can change over time
 *const-constant value and can't change once defined
-*let -
+*let - allows you to declare variables that are limited in scope to the block, statement, or expression on which it is used.
 *const and let is in the latest version of js[ES6]
 *not all browse support const and let.
 
